@@ -1,0 +1,60 @@
+.name {
+    font-size: 50px;
+    float: left;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    margin: 20px;
+    border: 3px solid black;
+}
+/* <!-- Navigation bar --!> */
+.navbar {
+    float:right;
+    padding: 20px;
+
+}
+
+.nav ul li {
+    padding: 0px;
+    margin: 0px;
+}
+header nav ul {
+    list-style-type: none;
+}
+header nav ul li {
+    display: inline;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 25px;
+}
+/* <!-- sections --!> */
+.container {
+    border:3px solid black;
+    width: 200px;
+    padding: 20px;
+    background-color: #0d3569;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.box1 {
+    font-size: 48px;
+    
+}
+.box2 {
+    font-size: 80px;
+}
+.box3 {
+    font-size: 150px;
+}
+.box4 {
+    font-size: 300px;
+}
+}
+}
+/* <!-- Footer --!> */
+
+.footer:: h3 {
+    bottom: 0;
+    text-align: center;
+}
