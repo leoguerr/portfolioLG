@@ -4,9 +4,21 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    
   }
-
-  main {
-    flex: 1 0 auto;
-  }
-      
+/* collapsable */
+#collapsable {
+  margin-top: 8px;
+}
+  /* footer CSS */
+.page-footer {
+  opacity: 80%;
+  margin-top: 10%;
+}
+/* logo text */
+.brand-logo {
+  margin-left: 17%;
+}
+.carousel {
+  
+}
